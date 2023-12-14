@@ -6,7 +6,7 @@ Ejercicios 1,2,3 y 4
 ## Cómo Descargar y Ejecutar en IntelliJ
 
 ### Descargar el Código Fuente
-1. Ve al repositorio de GitHub: [Enlace a tu Repositorio](https://github.com/tu_usuario/tu_proyecto).
+1. Ve al repositorio de GitHub: https://github.com/MorenoSegoviaSamuel/ExamenPSPT2SamuelMoreno.
 2. Haz clic en el botón verde "Code" y selecciona la opción "Download ZIP".
 3. Descomprime el archivo ZIP descargado en tu máquina local.
 
